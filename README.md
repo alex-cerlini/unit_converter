@@ -29,3 +29,6 @@ The App is a convert unit tool.
 
 
 Feito com <span style="color: red">♥</span>.
+
+[![Linkedin Badge](https://img.shields.io/badge/-AlexCerlini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-andrade-cerlini-560982119/)](https://www.linkedin.com/in/alexander-andrade-cerlini-560982119/) 
+[![Gmail Badge](https://img.shields.io/badge/-alexcerlinii@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexcerlinii@gmail.com)](mailto:alexcerlinii@gmail.com)
