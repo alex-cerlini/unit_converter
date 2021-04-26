@@ -13,3 +13,9 @@
 The App is a convert unit tool.
 
 ---
+
+### Technology:
+- Flutter
+- Dart
+
+---
