@@ -19,3 +19,13 @@ The App is a convert unit tool.
 - Dart
 
 ---
+
+### Author
+<br />
+<a href="https://github.com/alex-cerlini">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56663683?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Alexander Andrade Cerlini</b></sub></a> <a href="https://github.com/alex-cerlini" title="Alex Cerlini">🚀</a>
+
+
+Feito com <span style="color: red">♥</span>.
