@@ -33,11 +33,11 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Column(
-        children: <Widget>[
-          Container(
-            height: 150,
-            width: 150,
+      body: GridView.count(
+        crossAxisCount: 2,
+        children: [
+          Padding(
+            padding: const EdgeInsets.all(20),
             child: Card(
               color: Colors.lightGreen[300],
               shape: RoundedRectangleBorder(
