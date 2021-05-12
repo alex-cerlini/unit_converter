@@ -43,7 +43,10 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Card(
                 color: Colors.lightGreen[300],
                 shape: RoundedRectangleBorder(
-                  side: BorderSide(color: Colors.white70, width: 2),
+                  side: BorderSide(
+                    color: Colors.white70,
+                    width: 2,
+                  ),
                   borderRadius: BorderRadius.circular(30),
                 ),
                 child: Center(
