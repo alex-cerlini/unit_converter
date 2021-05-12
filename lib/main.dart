@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Unit Converter',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.lightGreen,
       ),
       home: MyHomePage(title: 'Conversor de Unidades'),
     );
