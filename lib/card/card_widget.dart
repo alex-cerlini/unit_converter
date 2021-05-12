@@ -1,6 +1,13 @@
 import 'package:flutter/material.dart';
 
-class CardWidget extends StatelessWidget {
+class CardWidget extends StatefulWidget {
+  @override
+  _CardWidgetState createState() => _CardWidgetState();
+}
+
+class _CardWidgetState extends State<CardWidget> {
+  final String title = "Default";
+
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -16,7 +23,7 @@ class CardWidget extends StatelessWidget {
         ),
         child: Center(
           child: Text(
-            'Exemplo',
+            '$title',
           ),
         ),
       ),
