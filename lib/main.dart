@@ -37,8 +37,21 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
-              'Aqui ficará os widgets',
+            Container(
+              height: 150,
+              width: 150,
+              child: Card(
+                color: Colors.lightGreen[300],
+                shape: RoundedRectangleBorder(
+                  side: BorderSide(color: Colors.white70, width: 1),
+                  borderRadius: BorderRadius.circular(30),
+                ),
+                child: Center(
+                  child: Text(
+                    'Exemplo',
+                  ),
+                ),
+              ),
             ),
           ],
         ),
